@@ -1,3 +1,3 @@
 module Primer
-  VERSION = "0.0.1"
+  VERSION = '99.0.1-dev'.freeze
 end
